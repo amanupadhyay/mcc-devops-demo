@@ -11,3 +11,7 @@ def read_root():
 @app.get("/about")
 def about():
     return {"msg": "About Us"}
+
+@app.get("contact-us")
+def contact_us():
+    return {"email": "aman@example.com", "phone": "1234567890"}
