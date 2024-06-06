@@ -14,4 +14,4 @@ def about():
 
 @app.get("contact-us")
 def contact_us():
-    return {"email": "aman@example.com", "phone": "53783476"}
+    return {"email": "aman@example.com", "phone": "5647823455"}
