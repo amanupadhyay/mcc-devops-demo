@@ -1,1 +1,0 @@
-# mcc-devops-demo
