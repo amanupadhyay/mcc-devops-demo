@@ -10,6 +10,6 @@ Sudo su
 5) clone/pull your repo (git clone {repo https link}, branch docker)
 6) docker build -t webapp .
 7) docker run -p 80:80 webapp
-8) go to public ip and web page should load
+8) Test your application (open browser, enter public_ip/home in url bar)
 
 ### note : port 80 should be allowed in VM network setting
