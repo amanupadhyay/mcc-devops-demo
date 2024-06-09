@@ -1,1 +1,1 @@
-fastapi run app.py
+sudo fastapi run app.py
